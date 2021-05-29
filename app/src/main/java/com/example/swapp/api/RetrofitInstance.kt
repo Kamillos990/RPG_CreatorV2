@@ -14,6 +14,6 @@ object RetrofitInstance {
     }
 
     val api by lazy{
-        retrofit.create(SWAPI::class.java)
+        retrofit.create(DnDAPI::class.java)
     }
 }

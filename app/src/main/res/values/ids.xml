@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText" type="id" />
+    <item name="podstawowe_informacje" type="id" />
+    <item name="textView4" type="id" />
+    <item name="textView2" type="id" />
+    <item name="editText2" type="id" />
+    <item name="hitpoints" type="id" />
+    <item name="spinner2" type="id" />
+</resources>
